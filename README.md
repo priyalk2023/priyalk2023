@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalk2023&label=Profile%20views&color=0e75b6&style=flat" alt="priyalk2023" /> </p>
 
--  I completed project **Indelible**
+-  Successfully finished the project **Indelible** using Html,css,Javascript,Python and Django.
 
-   I completed project **Heliography Studio**
+-  Successfully completed web designing project **Heliography Studio** using Html,Css,Javascript.
   
 -  I’m currently learning **full stack web development course**
 
