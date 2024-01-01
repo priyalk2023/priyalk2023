@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyalk2023&label=Profile%20views&color=0e75b6&style=flat" alt="priyalk2023" /> </p>
 
-- 🔭 I’m completed project **Indelible**
+- 🔭 I completed project **Indelible**
 
 - 🌱 I’m currently learning **full stack web development course**
 
-- 🔭 I’m completed project **Heliography Studio**
+- 🔭 I completed project **Heliography Studio**
 
 - 📫 How to reach me **priyalk2002@gmail.com**
 
